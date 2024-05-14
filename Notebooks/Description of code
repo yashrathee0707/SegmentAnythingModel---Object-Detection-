@@ -1,0 +1,6 @@
+These are the code files:
+1. Satellite.ipynb - This is just a normal image segmentation.
+2. automatic_mask_generator - This file automatically segments the image without giving in any inputs as such. 
+3. input_prompts - This file inputs some red points(areas you want to exclude while segmenting) and green points(areas you want to include while segmenting). 
+4. Box_prompts - This file inputs the coordinates where you want to do the object detection.
+5. Text_prompts - This file inputs the text prompts for object detection such as tree, buildings, swimming pools. 
